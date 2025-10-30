@@ -1,0 +1,6 @@
+namee = input(f"Enter your name: ")
+age = int(input("Enter your age: "))
+height = float(input("Enter your height: "))
+print(f"Ten: {namee}")
+print(f"Tuoi: {age}")
+print(f"Chieu cao: {height}")
